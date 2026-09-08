@@ -1,6 +1,3 @@
-Claro — abaixo está o conteúdo **100% em Markdown**, pronto para copiar e colar diretamente no `README.md` do GitHub:
-
-````
 # 🎨 Design System — Itaú
 
 ![Design System Preview](./Guilherme%20felix.png)
